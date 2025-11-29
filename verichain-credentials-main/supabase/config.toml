@@ -1,0 +1,4 @@
+project_id = "yvgxsxcoufoigaulpziv"
+
+[functions.extract-credential]
+verify_jwt = false
